@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 ## Requirements
 
 - [ ] ショートカットのかわいい彼女
-- [ ] 酒
-- [ ] からあげ
+- [x] 酒
+- [x] からあげ
