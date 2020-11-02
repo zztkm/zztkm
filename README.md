@@ -25,3 +25,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Requirements
+
+- [ ] ショートカットのかわいい彼女
+- [ ] 酒
+- [ ] からあげ
