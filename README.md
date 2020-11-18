@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/zztkm?label=Follow&style=social)](https://github.com/zztkm)
 
 - I love [V Programming Language](https://github.com/vlang/v).
-- 🌱 I’m currently learning Go.
+- 🌱 I love Go.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zztkm&hide=html)
