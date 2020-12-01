@@ -7,7 +7,7 @@
 - 🌱 I love Go.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zztkm&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zztkm&hide=html&theme=cobalt)
 ![zztkm's github stats](https://github-readme-stats.vercel.app/api?username=zztkm&show_icons=true&count_private=true&line_height=40&theme=cobalt)
 
 
