@@ -3,7 +3,7 @@
 
 [![Github](https://img.shields.io/github/followers/zztkm?label=Follow&style=social)](https://github.com/zztkm)
 
-- I love [V Programming Language](https://github.com/vlang/v).
+- I like [V Programming Language](https://github.com/vlang/v).
 - 🌱 I love Go.
 
 
