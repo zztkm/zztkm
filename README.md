@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 ## Requirements
 
-- [ ] ショートカットの彼女
+- [X] ショートカットの彼女
 - [x] 酒
 - [x] からあげ
