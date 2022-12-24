@@ -20,6 +20,7 @@
 ### Challenging projects
 
 - [ ] Text editor
+  - https://github.com/zztkm/editor.py
 - [ ] 2D game - Space Invaders
 - [ ] Compiler - Tiny BASIC
 - [ ] Mini operating system
