@@ -17,6 +17,7 @@
 
 - [ ] Text editor
   - https://github.com/zztkm/editor.py
+  - https://github.com/zztkm/kilolo
 - [ ] 2D game - Space Invaders
 - [ ] Compiler - Tiny BASIC
 - [ ] Mini operating system
