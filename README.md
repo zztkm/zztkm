@@ -22,6 +22,7 @@
 - [ ] Compiler - Tiny BASIC
 - [ ] Mini operating system
 - [ ] Spreadsheet (hard!)
+  - go + embed (web)  
 - [ ] Video game console emulator (hard!)
 
 for more details: https://austinhenley.com/blog/challengingprojects.html
