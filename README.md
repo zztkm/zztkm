@@ -9,7 +9,7 @@ Backend Engineers in Japan. I like CLI and low layering technology.
 - DevOps
   - GitHub Actions
   - (little) AWS CodeBuild
-- Backend 開発
+- Backend development
 
 
 ### Favorite articles
