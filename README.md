@@ -3,9 +3,14 @@
 
 [![Github](https://img.shields.io/github/followers/zztkm?label=Follow&style=social)](https://github.com/zztkm)
 
+## Skills
 
-- I like [V Programming Language](https://github.com/vlang/v).
-- 🌱 I love Python & Go.
+- Go, Python, Java, TypeScript, JavaScript, C#, C
+  - [V Programming Language](https://github.com/vlang/v) 🥑
+- DevOps
+  - GitHub Actions
+  - (little) AWS CodeBuild
+- Backend 開発
 
 
 ## Favorite articles
