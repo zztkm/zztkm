@@ -1,9 +1,8 @@
-### Hi there 👋, I'm zztkm
+### TLDR
 
+Backend Engineers in Japan. I like CLI and low layering technology.
 
-[![Github](https://img.shields.io/github/followers/zztkm?label=Follow&style=social)](https://github.com/zztkm)
-
-## Skills
+### Skills
 
 - Go, Python, Java, TypeScript, JavaScript, C#, C
   - [V Programming Language](https://github.com/vlang/v) 🥑
@@ -13,12 +12,12 @@
 - Backend 開発
 
 
-## Favorite articles
+### Favorite articles
 
 - [Programming as play - Austin Z. Henley](https://austinhenley.com/blog/programmingasplay.html)
 
 
-### Challenging projects
+#### Challenging projects
 
 - [ ] Text editor
   - https://github.com/zztkm/editor.py
@@ -32,7 +31,7 @@
 
 for more details: https://austinhenley.com/blog/challengingprojects.html
 
-### More challenging projects
+#### More challenging projects
 
 - [ ] Ray tracer
 - [ ] Key-value store web API
