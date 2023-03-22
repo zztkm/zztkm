@@ -26,7 +26,7 @@ Backend Engineers in Japan. I like CLI and low layering technology.
   - https://github.com/zztkm/editor.py
   - https://github.com/zztkm/kilolo
 - [ ] 2D game - Space Invaders
-- [ ] Compiler - Tiny BASIC
+- [ ] Compiler - Tiny Go
 - [ ] Mini operating system
 - [ ] Spreadsheet (hard!)
   - go + embed (web)  
