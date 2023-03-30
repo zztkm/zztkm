@@ -2,6 +2,8 @@
 
 Backend Engineers in Japan. I like CLI and low layering technology.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zztkm)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Skills
 
 - Go, Python, Java, TypeScript, JavaScript, C#, C
