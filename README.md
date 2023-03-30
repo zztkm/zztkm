@@ -58,10 +58,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Requirements
-
-- [X] ショートカットの彼女
-- [x] 酒
-- [x] からあげ
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zztkm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
