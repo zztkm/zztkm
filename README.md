@@ -16,6 +16,7 @@ Backend Engineers in Japan. I like CLI and low layering technology.
 
 ### Favorite articles
 
+- [それがリーダーってもんだよ](https://j.ktamura.com/archives/16385)
 - [Programming as play - Austin Z. Henley](https://austinhenley.com/blog/programmingasplay.html)
 - [日々の進捗の出し方](https://nhiroki.jp/2019/02/14/make-progress)
 - [設計に悩みすぎる前に手を動かしてみる話](https://nhiroki.jp/2021/09/24/coding-before-overthinking)
