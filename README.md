@@ -2,7 +2,7 @@
 
 Backend Engineers in Japan. I like CLI and low layering technology.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zztkm)](https://github.com/anuraghazra/github-readme-stats)
+motto: Make a every program filter.
 
 ### Skills
 
@@ -16,6 +16,7 @@ Backend Engineers in Japan. I like CLI and low layering technology.
 
 ### Favorite articles
 
+- [Unix philosophy - Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy)
 - [それがリーダーってもんだよ](https://j.ktamura.com/archives/16385)
 - [Programming as play - Austin Z. Henley](https://austinhenley.com/blog/programmingasplay.html)
 - [日々の進捗の出し方](https://nhiroki.jp/2019/02/14/make-progress)
@@ -60,6 +61,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zztkm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zztkm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
