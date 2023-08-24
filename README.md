@@ -4,6 +4,11 @@ Backend Engineers in Japan. I like CLI and low layering technology.
 
 motto: Make a every program filter.
 
+## Info
+
+- homepage: https://tsurutatakumi.info/
+- blog: https://blog.tsurutatakumi.info/
+
 ### Skills
 
 - Go, Python, Java, TypeScript, JavaScript, C#, C
