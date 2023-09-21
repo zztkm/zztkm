@@ -31,7 +31,7 @@ motto: Make a every program filter.
 
 #### Challenging projects
 
-- [ ] Text editor
+- [x] Text editor
   - https://github.com/zztkm/editor.py
   - https://github.com/zztkm/kilolo
 - [ ] 2D game - Space Invaders
