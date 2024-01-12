@@ -21,12 +21,12 @@ motto: Make a every program filter.
 
 ### Favorite articles
 
+- [Rob Pike's 5 Rules of Programming]([users.ece.utexas.edu/~adnan/pike.html](https://users.ece.utexas.edu/~adnan/pike.html))
 - [Unix philosophy - Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy)
 - [それがリーダーってもんだよ](https://j.ktamura.com/archives/16385)
 - [Programming as play - Austin Z. Henley](https://austinhenley.com/blog/programmingasplay.html)
 - [日々の進捗の出し方](https://nhiroki.jp/2019/02/14/make-progress)
 - [設計に悩みすぎる前に手を動かしてみる話](https://nhiroki.jp/2021/09/24/coding-before-overthinking)
-- [シリコンバレーで働いて気付いた「技術力向上」だけに固執するエンジニアのダメさ【Sansan CTO 藤倉成太】 - エンジニアtype | 転職type](https://type.jp/et/feature/9402/)
 
 
 #### Challenging projects
