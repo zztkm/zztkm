@@ -21,7 +21,7 @@ motto: Make a every program filter.
 
 ### Favorite articles
 
-- [Rob Pike's 5 Rules of Programming]([users.ece.utexas.edu/~adnan/pike.html](https://users.ece.utexas.edu/~adnan/pike.html))
+- [Rob Pike's 5 Rules of Programming](https://users.ece.utexas.edu/~adnan/pike.html)
 - [Unix philosophy - Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy)
 - [それがリーダーってもんだよ](https://j.ktamura.com/archives/16385)
 - [Programming as play - Austin Z. Henley](https://austinhenley.com/blog/programmingasplay.html)
