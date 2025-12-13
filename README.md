@@ -1,6 +1,6 @@
 ### TLDR
 
-Backend Engineers in Japan. I like CLI and low layering technology.
+Programmer in Japan. I like CLI & TUI and low layering technology.
 
 motto: Make a every program filter.
 
